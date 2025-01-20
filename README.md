@@ -17,7 +17,8 @@ Check it out [here](https://github.com/chajoy/weather-app)
   <img alt="git" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=black&labelColor=%23f56949&color=%23f56949">
   <img alt="prettier" src="https://img.shields.io/badge/prettier-black?style=for-the-badge&logo=prettier&logoColor=black&labelColor=%23192e4d&color=%23192e4d">
   <img alt="babel" src="https://img.shields.io/badge/babel-black?style=for-the-badge&logo=babel&logoColor=black&labelColor=%23ccc431&color=%23ccc431">
-  <img alt="Static Badge" src="https://img.shields.io/badge/netlify-black?style=for-the-badge&logo=netlify&logoColor=black&labelColor=%2325c7b7&color=%2325c7b7">
+  <img alt="netlify" src="https://img.shields.io/badge/netlify-black?style=for-the-badge&logo=netlify&logoColor=black&labelColor=%2325c7b7&color=%2325c7b7">
+  <img alt="sass" src="https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass&logoColor=black&labelColor=%23d06da2&color=%23d06da2">
 </div>
 
 
