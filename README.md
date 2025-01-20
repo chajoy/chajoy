@@ -1,8 +1,8 @@
 # About Me
 
-**`Web developer with a creative background in VFX.`**
 
-👋 Web developer with a background in VFX. Passionate about learning new technologies and building creative, interactive web apps.
+
+👋 **`Web developer with a creative background in VFX`**. Passionate about learning new technologies and building creative, interactive web apps.
 
 After 4 years in VFX, I transitioned to web development, applying my creativity and problem-solving skills to build user-centered experiences. I’m focused on growing as a front-end developer and gaining hands-on experience.
 
