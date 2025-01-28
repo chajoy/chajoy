@@ -4,9 +4,8 @@ After 4 years in VFX, I transitioned to web development, applying my creativity 
 
 ## 🔭 Current Project
 
-Building a **Weather App** that fetches real-time data from an API to display weather information. This project is helping me improve my skills in **asynchronous JavaScript** and **API integration**.
-
-Check it out [here](https://github.com/chajoy/weather-app)
+Building a **Mars Rover Image Viewer** that lets users select a date and fetch an image from the Mars Rover API. This project is helping me improve my skills in **asynchronous JavaScript** and **API integration**.
+Check it out [here](https://github.com/chajoy/mars-rover-photo-app)
 
 <div>
   <img alt="javascript" src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=black&labelColor=%23f5d442&color=%23f5d442">
