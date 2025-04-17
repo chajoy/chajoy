@@ -4,8 +4,8 @@ After 4 years in VFX, I transitioned to web development, applying my creativity 
 
 ## 🔭 Current Project
 
-Building a **Mars Rover Image Viewer** that lets users select a date and fetch an image from the Mars Rover API. This project is helping me improve my skills in **asynchronous JavaScript** and **API integration**.
-Check it out [here](https://github.com/chajoy/mars-rover-photo-app)
+Building a **CV Application** that allows users to input their contact, educational, and professional information to instantly preview a formatted resume. This project is helping me strengthen my skills in **React state management**, **dynamic form handling**, and **real-time component rendering**.
+Check it out [here](https://github.com/chajoy/cv-application)
 
 <div>
   <img alt="javascript" src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=black&labelColor=%23f5d442&color=%23f5d442">
@@ -16,6 +16,7 @@ Check it out [here](https://github.com/chajoy/mars-rover-photo-app)
   <img alt="prettier" src="https://img.shields.io/badge/prettier-black?style=for-the-badge&logo=prettier&logoColor=black&labelColor=%23192e4d&color=%23192e4d">
   <img alt="babel" src="https://img.shields.io/badge/babel-black?style=for-the-badge&logo=babel&logoColor=black&labelColor=%23f5ed5b&color=%23f5ed5b">
   <img alt="sass" src="https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass&logoColor=black&labelColor=%23d06da2&color=%23d06da2">
+  <img alt="react" src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=black&labelColor=%2361DBFB&color=%2361DBFB">
 </div>
 
 
