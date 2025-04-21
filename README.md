@@ -15,9 +15,7 @@ Check it out [here](https://github.com/chajoy/cv-application)
   <img alt="html" src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=black&labelColor=%23E34F26&color=%23E34F26">
   <img alt="css" src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=csswizardry&logoColor=black&labelColor=%23F43059&color=%23F43059">
   <img alt="javascript" src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=black&labelColor=%23F7DF1E&color=%23F7DF1E">
-
   <img alt="git" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=black&labelColor=%23F05032&color=%23F05032">
-  <br>
   <img alt="prettier" src="https://img.shields.io/badge/prettier-black?style=for-the-badge&logo=prettier&logoColor=black&labelColor=%23F7B93E&color=%23F7B93E">
   <img alt="webpack" src="https://img.shields.io/badge/webpack-black?style=for-the-badge&logo=webpack&logoColor=black&labelColor=%238DD6F9&color=%238DD6F9">
   <img alt="babel" src="https://img.shields.io/badge/babel-black?style=for-the-badge&logo=babel&logoColor=black&labelColor=%23F9DC3E&color=%23F9DC3E">
