@@ -20,6 +20,7 @@ Check it out [here](https://github.com/chajoy/cv-application)
   <img alt="sass" src="https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass&logoColor=black&labelColor=%23CC6699&color=%23CC6699">
   <img alt="react" src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=black&labelColor=%2361DAFB&color=%2361DAFB">
   <img alt="netlify" src="https://img.shields.io/badge/netlify-black?style=for-the-badge&logo=netlify&logoColor=black&labelColor=%2300C7B7&color=%2300C7B7">
+  <img alt="vercel" src="https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel&logoColor=white&labelColor=%23000000&color=%23000000">
 </div>
 
 
